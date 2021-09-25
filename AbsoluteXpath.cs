@@ -23,7 +23,7 @@ namespace AbsoluteXpathDemo
 
 
 
-            // driver.Close();
+             driver.Close();
         }
     }
 }
