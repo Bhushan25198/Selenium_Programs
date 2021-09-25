@@ -19,7 +19,7 @@ namespace Chrome_Lounch
 
             driver.Url = "https://www.google.co.in/";
 
-            //driver.Close();
+            driver.Close();
         }
     }
 }
