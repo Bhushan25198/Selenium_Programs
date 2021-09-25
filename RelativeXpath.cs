@@ -23,7 +23,7 @@ namespace Relative_Xpath
 
 
             
-            //driver.Close();
+            driver.Close();
         }
     }
 }
